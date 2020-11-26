@@ -1,4 +1,4 @@
-# cs
+# [CS(Computer Science)](https://en.wikipedia.org/wiki/Computer_science)
 
 ## 이산수학
 

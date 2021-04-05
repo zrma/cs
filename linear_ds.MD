@@ -14,7 +14,7 @@
 ---
 ### 큐(Queue)
 
-큐는 선입선출([**FIFO**](https://ko.wikipedia.org/wiki/선입_선출), First In First Out) 특성을 갖는 자료구조이며, 대기열이라고도 칭한다. 큐는 한쪽 끝에서 삽입이 일어나고 그 반대쪽 끝에서 삭제가 일어나는 순서 리스티이다. 새로운 데이터가 삽입되는 끝을 리어(rear)라고 하고 데이터가 삭제되는 끝을 프런트(front)라고 한다.
+큐는 선입선출([**FIFO**](https://ko.wikipedia.org/wiki/선입_선출), First In First Out) 특성을 갖는 자료구조이며, 대기열이라고도 칭한다. 큐는 한쪽 끝에서 삽입이 일어나고 그 반대쪽 끝에서 삭제가 일어나는 순서 리스트이다. 새로운 데이터가 삽입되는 끝을 리어(rear)라고 하고 데이터가 삭제되는 끝을 프런트(front)라고 한다.
 
 <img src="./images/queue.png" width="450px" height="" alt="queue"></img><br/>
 
@@ -24,4 +24,5 @@
 * Front() : 큐의 앞(front)에 있는 원소를 반환
 * Rear() : 큐의 뒤(rear)에 있는 원소를 반환
 * Push() : 큐의 뒤(rear)에 원소를 삽입
-* Pop() : 큐의 앞(front)에 원소를 삭제
+* Pop() : 큐의 앞(front)에 원소를 삭제
+* 
